@@ -1,4 +1,4 @@
-# swaysterwebscraping
+# Swayster Web Scraping
 A script used to gather scholarship and athlete ranking data from the ESPN website
 
 Functions for adding athletes and scholarship data with the Bubble data API are included in the test.js file and the scraper.js file.
